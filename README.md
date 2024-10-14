@@ -1,5 +1,8 @@
-# Keeper-App
-A The Keeper App is a simple, client-side application built with React.js designed to help you store and manage notes efficiently. This application is lightweight and does not require a backend, making it easy to set up and use right away.
-Features Include;
-1. Create Notes: Add new notes with titles and content.
-2. Delete Notes: Remove notes you no longer need.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
